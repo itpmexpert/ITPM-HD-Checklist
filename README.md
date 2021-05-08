@@ -1,4 +1,4 @@
-# ITPM HD+ Checklist
+# ITPM HD+ Checklist Objective
 
 ITPM hướng tới xây dựng và chia sẻ một <b>"Open Source"</b> Repository về Quản lý dự án phần mềm bao gồm
 
@@ -8,3 +8,36 @@ ITPM hướng tới xây dựng và chia sẻ một <b>"Open Source"</b> Reposit
 2. Template: Các biểu mẫu quản lý dự án, công cụ giúp các PM quản lý, tính toán đo lường
 
 Với nguyên tắc “Thành bại tại Quy Trình”. Khi dự án thất bại, hãy xem lại quy trình, review và cải tiến quy trình. Khi dự án thành công, review và làm tốt hơn nếu cần thiết và nhân rộng quy trình dự án để scale up tổ chức
+
+
+# ITPM HD+ Checklist Change log
+
+# ITPM Engine folder structure
+```
+ITPM Engine
+│       
+│
+└───Initiating
+│      
+│      
+│   
+│   
+└───Planning
+|   │   Vendor Scorecard_v1.0.xlsx
+│      
+│      
+│   
+│   
+└───Executing
+│      
+│      
+│   
+│   
+└───Monitoring
+│      
+│      
+│   
+│   
+└───Closing
+
+```
