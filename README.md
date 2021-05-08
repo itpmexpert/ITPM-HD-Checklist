@@ -1,4 +1,4 @@
-# ITPM-Checklist
+# ITPM HD+ Checklist
 
 ITPM hướng tới xây dựng và chia sẻ một <b>"Open Source"</b> Repository về Quản lý dự án phần mềm bao gồm
 
