@@ -14,6 +14,10 @@ Với nguyên tắc “Thành bại tại Quy Trình”. Khi dự án thất b�
 
 # ITPM Engine folder structure
 ```
+ITPM-Checklist
+|___ITPM_HD+Checklist_v0.0.1.xlsx
+|
+|
 ITPM Engine
 │       
 │
